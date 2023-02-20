@@ -1,6 +1,6 @@
 -  Hi, I’m Shivraj Kolwankar
--  I’m currently persuing Diploma In Information Technology
--  I'am intrested in programming 
+-  I’m currently persuing Diploma In Information Technology.
+-  I'm intrested in programming.
 
 <!---
 shivraj0124/shivraj0124 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

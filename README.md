@@ -23,7 +23,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivraj0124&show_icons=true&locale=en&layout=compact" alt="shivraj0124" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivraj0124&show_icons=true&locale=en" alt="shivraj0124" /></p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shivraj0124&theme=transparent)](https://git.io/streak-stats)
+
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivraj0124&show_icons=true&locale=en" alt="shivraj0124" /></p>-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivraj0124&" alt="shivraj0124" /></p>
 

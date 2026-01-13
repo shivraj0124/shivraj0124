@@ -100,10 +100,4 @@
 
 ###
 
-## 🔥 My Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=shivraj0124)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivraj0124)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=shivraj0124&layout=compact)

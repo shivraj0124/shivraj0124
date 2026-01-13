@@ -100,38 +100,10 @@
 
 ###
 
-<h3 align="left">🔥 My Stats :</h3>
+## 🔥 My Stats
 
-<br/>
+![GitHub Streak](https://streak-stats.demolab.com?user=shivraj0124)
 
-<div align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=shivraj0124&theme=dark&border_radius=5"
-    height="220"
-    alt="GitHub Streak"
-  />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivraj0124)
 
-<br/>
-
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=shivraj0124&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"
-    height="150"
-    alt="GitHub Stats"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivraj0124&layout=compact&langs_count=5&theme=dracula"
-    height="150"
-    alt="Top Languages"
-  />
-</div>
-
-<br/>
-
-<div align="center">
-  <img 
-    src="https://raw.githubusercontent.com/shivraj0124/shivraj0124/main/snake.svg"
-    alt="Snake Animation"
-  />
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=shivraj0124&layout=compact)

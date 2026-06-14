@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **shivrajkolwankar@gmail.com**
 
-- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1sCKb0WyHTDcFgHgZs8zI7LhgWnfl6PRh/view?usp=sharing](https://drive.google.com/file/d/1qQtHEYH6ClPY34tXe4Ck_nKT2sOHR9bh/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1qQtHEYH6ClPY34tXe4Ck_nKT2sOHR9bh/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

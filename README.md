@@ -1,4 +1,4 @@
-![logo](https://github.com/VedantKale08/VedantKale08/blob/main/Black%20Minimalist%20Corporate%20Professional%20Profile%20LinkedIn%20Banner.png)
+![logo]([https://github.com/VedantKale08/VedantKale08/blob/main/Black%20Minimalist%20Corporate%20Professional%20Profile%20LinkedIn%20Banner.png](https://github.com/shivraj0124/shivraj0124/blob/main/Black%20Modern%20Personal%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Shivraj Kolwankar</h1>
 <h3 align="center">A passionate MERN Stack Developer</h3>
 
